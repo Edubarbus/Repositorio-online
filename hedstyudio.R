@@ -1,1 +1,0 @@
-print("creado en hestudio")
